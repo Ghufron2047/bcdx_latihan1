@@ -29,6 +29,116 @@ class MyApp extends StatelessWidget {
                 Text("data 4 "),
               ],
             ),
+            Container(
+              height: 30,
+              width: 895,
+              color: Colors.lightBlue,
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Container(
+                  height: 50,
+                  width: 50,
+                  color: Colors.lightBlue,
+                ),
+                SizedBox(
+                  width: 10,
+                ),
+                Container(
+                  height: 50,
+                  width: 50,
+                  color: Colors.lightBlue,
+                ),
+                SizedBox(
+                  width: 10,
+                ),
+                Container(
+                  height: 50,
+                  width: 50,
+                  color: Colors.lightBlue,
+                ),
+                SizedBox(
+                  width: 10,
+                ),
+                Container(
+                  height: 50,
+                  width: 50,
+                  color: Colors.lightBlue,
+                ),
+                SizedBox(
+                  width: 10,
+                ),
+                Container(
+                  height: 50,
+                  width: 50,
+                  color: Colors.lightBlue,
+                )
+              ]
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Container(
+                  height: 50,
+                  width: 50,
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue,
+                    shape: BoxShape.circle,
+                  ),
+                ),
+                SizedBox(
+                  width: 10,
+                ),
+                Container(
+                  height: 50,
+                  width: 50,
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue,
+                    shape: BoxShape.circle,
+                  ),
+                ),
+                SizedBox(
+                  width: 10,
+                ),
+                Container(
+                  height: 50,
+                  width: 50,
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue,
+                    shape: BoxShape.circle,
+                  ),
+                ),
+                SizedBox(
+                  width: 10,
+                ),
+                Container(
+                  height: 50,
+                  width: 50,
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue,
+                    shape: BoxShape.circle,
+                  ),
+                ),
+                SizedBox(
+                  width: 10,
+                ),
+                Container(
+                  height: 50,
+                  width: 50,
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue,
+                    shape: BoxShape.circle,
+                  ),
+                )
+              ]
+            ),
           ],
         ),
       ),
